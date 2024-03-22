@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "colyseus.js": "^0.15.17",
-    "firebase": "^10.7.2",
+    "firebase": "^10.9.0",
     "pinia": "^2.1.7",
     "showdown": "^2.1.0",
     "vue": "^3.3.11",
